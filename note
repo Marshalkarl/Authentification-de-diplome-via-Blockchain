@@ -1,0 +1,52 @@
+ > transaction hash:    0x3d7b70ab09121615526d6ce09f7596a51705e5052dc9ae67b26d6d5ce51883a0
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x207a3436DefD1529C778F528a5E6FEb191e809F8
+   > block number:        3
+   > block timestamp:     1726782461
+   > account:             0xD786ca25ED910E28e7BdBC36a5cFC4Bf30B3405e
+   > balance:             99.998240223574136028
+   > gas used:            245600 (0x3bf60)
+   > gas price:           3.178236271 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0007805748281576 ETH
+
+
+
+    Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x885ec52ae0b6ea1b62b994ed2763d1541c9d6c1ee47090720f3489ef5ca86ad3
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xD97FB70b5fDC56BC81E4D6d9639b6e9541D0d461
+   > block number:        3
+   > block timestamp:     1726786356
+   > account:             0xAAf20575b7C7EE1E392eD25acDa96720817F6A85
+   > balance:             999.998241726634703262
+   > gas used:            245656 (0x3bf98)
+   > gas price:           3.171782832 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000779167483377792 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000779167483377792 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.000779167483377792 ETH
+
+
+
+
+
+'0xD9b023ac2315463daC8E20c7b8D7aA42E2159746',
+  '0xE67Ed410DC2FB7611688E1325FdFbf2Ac13D14Ba',
+  '0x448c4a04a83F9cbEfd016A7943861ba6aaE30E10',
+  '0xD6e7df55AB4bAf9c1850B00D8e275d71F5410f9B',
+  '0x251f4C3eBD9644Ea75F81b6A328913C63DaA50b3',
+  '0x081b7F64c72d59790936bb688544F256895Da0B0',
+  '0x66f26EFf93d453e069Fdf38DE5E098A7754d4dc2',
+  '0x66Cd00b8A1Dd4C4823E7B5c98dbD8A4c7da010b4',
+  '0x6Fe1846061Cbc46fB8f59632Ee8ECbF745d24530',
+  '0x2A570804757cE6954b12526B57E03E7D798854f7'
